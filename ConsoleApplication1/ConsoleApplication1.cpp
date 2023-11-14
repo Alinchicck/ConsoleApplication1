@@ -9,5 +9,7 @@ int main()
     int b;
     std::cin >> b;
     std::cout << b;
+    int a;
+    
 }
 
